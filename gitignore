@@ -39,7 +39,7 @@ out/
 *.zip
 *.tar.gz
 *.rar
-
+*.rar
 ### Exclusions ###
 !gradle/wrapper/gradle-wrapper.jar
 !.mvn/wrapper/maven-wrapper.jar
